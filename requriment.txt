@@ -1,0 +1,5 @@
+tensorflow==2.15.0
+streamlit
+pillow
+numpy
+link of the data = https://www.kaggle.com/datasets/monaabdelrazek/finaldataset/data?select=FinalDataset
